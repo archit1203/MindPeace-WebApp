@@ -55,7 +55,3 @@ The main control of the application is in file ‘main.py’.
 The template folder contains all the html files. 
 The static folder contains css style sheets and the ‘images‘  folder which contains images  used in the project. 
 ‘trackdb.sqlite3’ contains the database. 
-
-.
-.a
-.
